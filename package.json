@@ -1,0 +1,36 @@
+{
+  "name": "js-infra-eslint-prettier",
+  "version": "1.0.0",
+  "description": "A sample application to explore eslint and prettier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avadhutprabhudesai/js-infra-eslint-prettier.git"
+  },
+  "keywords": [
+    "eslint-demo",
+    "prettier-demo",
+    "eslint-prettier-poc"
+  ],
+  "author": "Avadhut Prabhudesai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avadhutprabhudesai/js-infra-eslint-prettier/issues"
+  },
+  "homepage": "https://github.com/avadhutprabhudesai/js-infra-eslint-prettier#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.19.0",
+    "@typescript-eslint/parser": "^5.19.0",
+    "eslint": "^8.13.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-react": "^7.29.4",
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
